@@ -99,6 +99,11 @@
             <mxPoint x="530" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NnzDOKIRtXiZZpvIxnT1-13" connectable="0" parent="NBgtIm3dZCknrwB5MJYK-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="NTP / OTA" vertex="1">
+          <mxGeometry relative="1" x="0.7635" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NBgtIm3dZCknrwB5MJYK-53" edge="1" parent="1" source="NBgtIm3dZCknrwB5MJYK-26" style="endArrow=classic;startArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NBgtIm3dZCknrwB5MJYK-44" value="">
           <mxGeometry height="50" relative="1" width="50" x="-0.0914" as="geometry">
             <Array as="points">
