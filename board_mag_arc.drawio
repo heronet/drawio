@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="6Hvw9D1-fS1TcnRzCYpq">
-    <mxGraphModel dx="1293" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="NBgtIm3dZCknrwB5MJYK-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Network Services" vertex="1">
           <mxGeometry height="30" width="96.47" x="485.01000000000005" y="224.9" as="geometry" />
         </mxCell>
-        <mxCell id="NBgtIm3dZCknrwB5MJYK-27" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="NBgtIm3dZCknrwB5MJYK-27" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;arcSize=16;" value="" vertex="1">
           <mxGeometry height="290" width="550" x="35" y="320" as="geometry" />
         </mxCell>
         <mxCell id="NBgtIm3dZCknrwB5MJYK-47" edge="1" parent="1" source="NBgtIm3dZCknrwB5MJYK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=classic;startFill=1;" target="NBgtIm3dZCknrwB5MJYK-19">
@@ -48,7 +48,12 @@
         <mxCell id="NBgtIm3dZCknrwB5MJYK-41" edge="1" parent="1" source="NBgtIm3dZCknrwB5MJYK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=classic;startFill=1;" target="NBgtIm3dZCknrwB5MJYK-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NBgtIm3dZCknrwB5MJYK-42" edge="1" parent="1" source="NBgtIm3dZCknrwB5MJYK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;startArrow=classic;startFill=1;" target="NBgtIm3dZCknrwB5MJYK-34">
+        <mxCell id="NnzDOKIRtXiZZpvIxnT1-3" connectable="0" parent="NBgtIm3dZCknrwB5MJYK-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="I2C" vertex="1">
+          <mxGeometry relative="1" x="0.1832" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBgtIm3dZCknrwB5MJYK-42" edge="1" parent="1" source="NBgtIm3dZCknrwB5MJYK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;startArrow=classic;startFill=1;" target="NBgtIm3dZCknrwB5MJYK-34" value="HUB12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NBgtIm3dZCknrwB5MJYK-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ESP32S3 + Zephyr RTOS" vertex="1">
@@ -96,6 +101,14 @@
             <mxPoint x="480" y="420" as="sourcePoint" />
             <mxPoint x="530" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NnzDOKIRtXiZZpvIxnT1-2" connectable="0" parent="NBgtIm3dZCknrwB5MJYK-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Direct Wi-Fi AP" vertex="1">
+          <mxGeometry relative="1" x="-0.181" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnzDOKIRtXiZZpvIxnT1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile Browser" vertex="1">
+          <mxGeometry height="30" width="90" x="637.56" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
