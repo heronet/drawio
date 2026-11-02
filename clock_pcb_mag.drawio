@@ -52,7 +52,7 @@
             <mxPoint x="450" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-la9IwpyFdY2tn2uFOdS-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AP mode button" vertex="1">
+        <mxCell id="-la9IwpyFdY2tn2uFOdS-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AP Mode Button" vertex="1">
           <mxGeometry height="30" width="70" x="675" y="300" as="geometry" />
         </mxCell>
         <mxCell id="-la9IwpyFdY2tn2uFOdS-18" edge="1" parent="1" source="-la9IwpyFdY2tn2uFOdS-17" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.828;entryY=0.263;entryDx=0;entryDy=0;entryPerimeter=0;" target="-la9IwpyFdY2tn2uFOdS-1" value="">
@@ -79,7 +79,7 @@
             <mxPoint x="620" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-la9IwpyFdY2tn2uFOdS-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5-30V DC-DC buck converter" vertex="1">
+        <mxCell id="-la9IwpyFdY2tn2uFOdS-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5-30V DC-DC Buck Converter" vertex="1">
           <mxGeometry height="30" width="90" x="50" y="510" as="geometry" />
         </mxCell>
         <mxCell id="-la9IwpyFdY2tn2uFOdS-25" edge="1" parent="1" source="-la9IwpyFdY2tn2uFOdS-24" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.19;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" target="-la9IwpyFdY2tn2uFOdS-1" value="">
